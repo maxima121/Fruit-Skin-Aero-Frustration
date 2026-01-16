@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    affiliation: "Independent Researcher"
+title: "Théorie de la Frustration Géométrique Bio-inspirée : De la Morphogenèse des Fruits à l'Ingénierie Aérospatiale"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/DrBryanOuellette/Fruit-Skin-Aero-Frustration"
+abstract: >-
+  Ce travail théorise l'application de l'incompatibilité métrique et de la frustration géométrique des péricarpes de fruits (Pomelo, Durian, Agrumes) à la conception de drones morphing et résilients.
